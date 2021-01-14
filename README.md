@@ -1,4 +1,4 @@
-# MA346 Project 1: Relationship Between COVID-19 and Political Affiliation of States
+# Relationship Between COVID-19 and Political Affiliation of States
 ### Cassidy Gorsky & Vivian Xia
 
 #### Introduction
