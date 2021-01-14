@@ -18,3 +18,4 @@ Two sets of data were downloaded from [USA Facts](https://usafacts.org/visualiza
 One set was pertaining to COVID cases in each state and the other set of data was on the population in each state. 
 The data on political affiliations of each state in 2016 was sourced from 
 [NPR](https://www.npr.org/2016/11/08/500927768/2016-presidential-election-results-for-each-state).
+The data sets are included in the repository.
