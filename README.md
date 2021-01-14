@@ -1,5 +1,5 @@
 # MA346 Project 1: Relationship Between COVID-19 and Political Affiliation of States
-#### Cassidy Gorsky & Vivian Xia
+### Cassidy Gorsky & Vivian Xia
 
 The purpose of this project is to explore the correlations 
 between the spread of the coronavirus, population, and political affiliation among states in the US. The relationships 
