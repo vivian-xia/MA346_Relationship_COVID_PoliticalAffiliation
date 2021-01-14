@@ -14,4 +14,7 @@ to see if the political affiliation of states is statistically significantly dif
 The project can be found [here](https://deepnote.com/publish/04a5033c-8d00-4670-9979-6fd82d7af9d6).
 
 #### Data
-Two sets of data were downloaded from USA Facts. One set was pertaining to COVID cases in each state and the other set of data was on the population in each state. The data on political affiliations of each state in 2016 was sourced from NPR. The data was copied and pasted into a table.
+Two sets of data were downloaded from [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/).
+One set was pertaining to COVID cases in each state and the other set of data was on the population in each state. 
+The data on political affiliations of each state in 2016 was sourced from 
+[NPR](https://www.npr.org/2016/11/08/500927768/2016-presidential-election-results-for-each-state).
