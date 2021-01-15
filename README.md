@@ -11,6 +11,11 @@ Using the variables and data sourced on political affiliation, a heatmap is crea
 relationships and their correlation coefficients between the variables. Hypothesis tests are then conducted
 to see if the political affiliation of states is statistically significantly different between different variables.
 
+The political affiliation of states do have a statistically significantly 
+different means for time of max increase, rate of increase, and 
+max cases per capita. The political affiliation of states do not have a statistically significantly 
+different means for (9/22/20), max cases, and cases per capita.
+
 The project can be found [here](https://deepnote.com/publish/04a5033c-8d00-4670-9979-6fd82d7af9d6).
 
 ### Data
