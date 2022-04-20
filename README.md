@@ -5,7 +5,7 @@
 The purpose of this project is to explore the correlations 
 between the spread of the coronavirus, population, and political affiliation among states in the US. The relationships 
 are analyzed by modeling the data into a logistsic model to find the maximum number of cases that will arise long term,
-the rate of spreadh, the time of maximum spread.
+the rate of spread, the time of maximum spread.
 
 Using the variables and data sourced on political affiliation, a heatmap is created to visualize the 
 relationships and their correlation coefficients between the variables. Hypothesis tests are then conducted
